@@ -1,0 +1,16 @@
+.Tours-tile {
+  background-color: #282c34;
+  width: 200;
+  height: 500;
+}
+.Tours-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 20px;
+}
+.image-container {
+  width: 20vw;
+  height: 30vh;
+  border-radius: 20px;
+}
